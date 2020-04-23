@@ -1,0 +1,3 @@
+[submodule "themes/metro"]
+	path = themes/metro
+	url = https://github.com/synecdoche-web-services/gohugo-theme-metro.git

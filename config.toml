@@ -1,3 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Isaac Reese | Portfolio"
+title = "Isaac Reese"
+theme = "metro"

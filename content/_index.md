@@ -1,6 +1,6 @@
 +++
 date = 2020-04-23T04:00:00Z
-menu = "Pages"
+menu = "pages"
 title = "Home"
 
 +++

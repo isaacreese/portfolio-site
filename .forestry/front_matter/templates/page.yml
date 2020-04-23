@@ -17,16 +17,9 @@ fields:
     required: false
   label: Title
 - name: menu
-  type: select
-  default: ''
+  type: text
   config:
     required: false
-    options: []
-    source:
-      type: documents
-      section: pages
-      file: content/_index.md
-      path: 
   label: Menu
 pages:
 - content/_index.md

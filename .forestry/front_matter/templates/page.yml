@@ -16,8 +16,5 @@ fields:
   config:
     required: false
   label: Title
-- name: draft
-  type: boolean
-  label: Draft
 pages:
 - content/portfolio-home.md

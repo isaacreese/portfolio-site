@@ -23,9 +23,9 @@ fields:
     required: false
     options: []
     source:
-      type: simple
-      section: 
-      file: 
+      type: documents
+      section: pages
+      file: content/_index.md
       path: 
   label: Menu
 pages:

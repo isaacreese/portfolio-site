@@ -16,5 +16,17 @@ fields:
   config:
     required: false
   label: Title
+- name: menu
+  type: select
+  default: ''
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Menu
 pages:
 - content/_index.md

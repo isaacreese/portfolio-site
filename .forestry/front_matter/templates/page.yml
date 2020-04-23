@@ -19,3 +19,5 @@ fields:
 - name: draft
   type: boolean
   label: Draft
+pages:
+- content/portfolio-home.md

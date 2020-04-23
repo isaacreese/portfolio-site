@@ -17,4 +17,4 @@ fields:
     required: false
   label: Title
 pages:
-- content/index.md
+- content/_index.md

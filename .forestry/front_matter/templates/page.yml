@@ -17,4 +17,4 @@ fields:
     required: false
   label: Title
 pages:
-- content/portfolio-home.md
+- content/index.md

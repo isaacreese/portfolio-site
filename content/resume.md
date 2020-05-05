@@ -1,6 +1,6 @@
 +++
 date = ""
-title = "Résumé"
+title = "Bio"
 [menu.pages]
 weight = 3
 

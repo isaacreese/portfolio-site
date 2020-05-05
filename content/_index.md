@@ -5,3 +5,5 @@ title = "Motion Graphics Reel"
 
 +++
 Motion Design Reel 2020
+
+{{< youtube cqk5_qBlk6o >}}

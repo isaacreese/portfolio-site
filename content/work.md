@@ -5,6 +5,6 @@ title = "Work"
 weight = 1
 
 +++
-Video Production Work
+# Work
 
 Cinematography

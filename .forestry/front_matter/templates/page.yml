@@ -16,11 +16,6 @@ fields:
   config:
     required: false
   label: Title
-- name: menu
-  type: text
-  config:
-    required: false
-  label: Menu
 pages:
 - content/_index.md
 - content/work.md

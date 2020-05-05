@@ -2,7 +2,3 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "metro"
 title = "Isaac Reese"
-[[menu.pages]]
-name = "IMDB"
-url = "https://www.imdb.com/name/nm7669404/"
-weight = 3

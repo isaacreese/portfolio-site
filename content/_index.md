@@ -1,7 +1,8 @@
 +++
 date = 2020-04-23T04:00:00Z
-menu = "pages"
 title = "Motion Reel"
+[menu.pages]
+weight = 1
 
 +++
 # Motion Design Reel 2020

@@ -2,7 +2,7 @@
 date = ""
 title = "Résumé"
 [menu.pages]
-weight = 2
+weight = 3
 
 +++
 Isaac Reese

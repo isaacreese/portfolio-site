@@ -2,7 +2,7 @@
 date = ""
 title = "Work"
 [menu.pages]
-weight = 1
+weight = 2
 
 +++
 # Work

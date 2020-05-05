@@ -1,6 +1,6 @@
 +++
 date = 2020-04-23T04:00:00Z
-title = "Motion Reel"
+title = "Reel"
 [menu.pages]
 weight = 1
 

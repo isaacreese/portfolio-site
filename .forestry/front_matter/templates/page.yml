@@ -18,4 +18,5 @@ fields:
   label: Title
 pages:
 - content/_index.md
+- content/résumé.md
 - content/work.md

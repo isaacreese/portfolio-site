@@ -1,7 +1,7 @@
 +++
 date = 2020-04-23T04:00:00Z
 menu = "pages"
-title = "Motion Graphics Reel"
+title = "Motion Reel"
 
 +++
 Motion Design Reel 2020

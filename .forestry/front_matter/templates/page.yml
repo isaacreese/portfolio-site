@@ -18,6 +18,6 @@ fields:
   label: Title
 pages:
 - content/_index.md
+- content/bio.md
 - content/contact.md
-- content/resume.md
 - content/work.md

@@ -3,4 +3,4 @@ date = ""
 title = "Contact"
 
 +++
-{{< contact netlify=true >}}
+{{< contact netlify="true" >}}

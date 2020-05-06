@@ -5,6 +5,6 @@ title = "Reel"
 weight = 1
 
 +++
-# Motion Graphics Reel 2020
+# Motion Graphics Reel
 
 {{< youtube cqk5_qBlk6o >}}

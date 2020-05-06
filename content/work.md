@@ -7,6 +7,8 @@ weight = 2
 +++
 # Work
 
+I have a broad artistic range with expertise in motion graphics, cinematography and editing. My video-production skills span the full production cycle including concept development, script writing, storyboarding, lighting, shooting, editing, animation, mixing audio, and color grading. Below is a selection of videos who's production I have largely guided including my roles within each production.
+
 {{< youtube hsre7I0UUJA >}}
 
 _DEA & TSA Take $82,000 Life Savings From Pittsburgh Retiree_  

@@ -12,7 +12,7 @@ I have a broad artistic range with expertise in motion graphics, cinematography 
 {{< youtube hsre7I0UUJA >}}
 
 _DEA & TSA Take $82,000 Life Savings From Pittsburgh Retiree_  
-Director, Cinematographer, Editor, Motion Graphics
+Director, Cinematographer, Photographer, Editor, Motion Graphics
 
 {{< youtube UM8ptxf7D-8 >}}
 

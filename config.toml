@@ -4,10 +4,14 @@ theme = "archie"
 title = "Isaac Reese"
 
 # Code
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
+paginate=3 # articles per page
 
 [params]
-	mode="dark" # color-mode → light,dark or auto
+	mode="light" # color-mode → light,dark or auto
 	featherIconsCDN=true
 	subtitle = "Motion Graphics + Cinematography"
 

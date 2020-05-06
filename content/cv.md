@@ -5,15 +5,13 @@ title = "CV"
 weight = 3
 
 +++
-Isaac Reese
-
 **ABOUT**
 
-Eighteen years of design, motion graphics, video editing, cinematography and photography experience
+Eighteen years of design, animation, cinematography and photography experience.
 
 **SOFTWARE**
 
-Adobe After Effects, Premiere Pro, Photoshop, Illustrator, Lightroom, InDesign, Maxon Cinema 4D, 
+Adobe After Effects, Premiere Pro, Photoshop, Illustrator, Lightroom, InDesign, Maxon Cinema 4D
 
 **AWARDS**
 

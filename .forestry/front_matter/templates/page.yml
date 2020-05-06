@@ -18,6 +18,5 @@ fields:
   label: Title
 pages:
 - content/_index.md
-- content/contact.md
 - content/cv.md
 - content/work.md

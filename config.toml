@@ -2,3 +2,18 @@ baseURL = "//isaacreese.com/"
 languageCode = "en-us"
 theme = "archie"
 title = "Isaac Reese"
+copyright = "© Isaac Reese"
+
+[params]
+	mode="light"
+	featherIconsCDN=true
+#	subtitle = "Motion Designer"
+
+#name = "Twitter"
+#icon = "twitter"
+#url = "https://twitter.com/isaacreese/"
+
+#[[params.social]]
+#name = "Instagram"
+#icon = "instagram"
+#url = "https://www.instagram.com/isaacreese/"

@@ -9,6 +9,8 @@ Eighteen years at a non-profit Constitutional law-firm has taught me the value o
 
 In that environment I have developed a broad artistic range with expertise in animation, cinematography and editing. My video-production skills span the full production cycle including concept development, producing, scriptwriting, storyboarding, lighting, shooting, editing, motion graphics, audio mixing, and color grading. Below is a selection of my documentary work. I have primarily guided most aspects of these projects and I have included my roles for each production.
 
+{{< youtube PLO9pjL1nDv6JTuHE4JPMLrLezhWFm2AkR >}}
+
 **_DEA & TSA Take $82,000 Life Savings From Pittsburgh Retiree_**  
 Director, Cinematographer, Photographer, Sound, Editor, Motion Graphics
 

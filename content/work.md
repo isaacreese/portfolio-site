@@ -1,7 +1,7 @@
 +++
 date = ""
 title = "Work"
-[menu.pages]
+[menu.main]
 weight = 2
 
 +++

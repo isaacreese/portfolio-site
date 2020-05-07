@@ -1,7 +1,7 @@
 +++
 date = ""
 title = "CV"
-[menu.pages]
+[menu.main]
 weight = 3
 
 +++

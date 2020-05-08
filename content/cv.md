@@ -7,7 +7,7 @@ weight = 3
 +++
 **ABOUT**
 
-Eighteen years of design, animation, cinematography and photography experience.
+With almost two decades of design and video experience, I have produced nationally award-winning animations and documentary shorts.
 
 **SOFTWARE**
 

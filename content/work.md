@@ -2,6 +2,7 @@
 date = ""
 title = "Work"
 [menu.main]
+name = "WORK"
 weight = 2
 
 +++

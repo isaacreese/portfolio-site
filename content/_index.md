@@ -2,6 +2,7 @@
 date = 2020-04-23T04:00:00Z
 title = "Reel"
 [menu.main]
+name = "REEL"
 weight = 1
 
 +++

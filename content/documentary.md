@@ -14,18 +14,22 @@ In that environment I have developed a broad artistic range with expertise acros
 Director, Cinematographer, Photographer, Sound, Editor, Motion Graphics
 
 {{< youtube hsre7I0UUJA >}}
+&nbsp;
 
 **_License to Work (Ep1)_**  
 Co-director, Cinematographer, Sound, Editor, Motion Graphics, Producer
 
 {{< youtube UM8ptxf7D-8 >}}
+&nbsp;
 
 **_Health Coach Threatened With Jail for Dietary Advice_**  
 Director, Cinematographer, Sound, Editor, Motion Graphics
 
 {{< youtube -8IjXfjuiN8 >}}
+&nbsp;
 
 **_How We're Taking Down Detroit's Notorious Car Impound System_**  
 Director, Sound, Cinematographer
 
 {{< youtube kxa8_JOuxck >}}
+&nbsp;

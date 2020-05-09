@@ -2,7 +2,7 @@
 date = ""
 title = "Documentary Shorts"
 [menu.main]
-name = "WORK"
+name = "DOCUMENTARY"
 weight = 2
 
 +++

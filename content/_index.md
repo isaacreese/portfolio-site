@@ -2,7 +2,7 @@
 date = 2020-04-23T04:00:00Z
 title = "Motion Graphics Reel"
 [menu.main]
-name = "REEL"
+name = "MOTION GRAPHICS"
 weight = 1
 
 +++

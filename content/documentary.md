@@ -8,7 +8,7 @@ weight = 2
 +++
 Eighteen years at a nonprofit Constitutional law firm has taught me the value of hustle. Working with limited budgets on tight deadlines has forced me to develop a Swiss Army Knife of personal production skills. That constant focus on personal growth has given me the confidence to deliver compelling videos that could otherwise only be made with big crews, lengthy production schedules, and deep pockets.
 
-In that environment I have developed a broad artistic range with expertise in graphic design, animation, cinematography and editing. My video-production skills span the full production cycle: concept development, scriptwriting, storyboarding, lighting, shooting, editing, motion graphics, audio mixing, and color grading. Below is a selection of my documentary work. I have guided most aspects of these projects. My roles for each production are included below.
+In that environment I have developed a broad artistic range with expertise across the documentary production cycle: concept development, scriptwriting, storyboarding, lighting, cinematography, editing, motion graphics, audio mixing, and color grading. Below is a selection of my documentary work. I have guided most aspects of these projects. Specific roles I performed for each production are included.
 
 **_DEA & TSA Take $82,000 Life Savings From Pittsburgh Retiree_**  
 Director, Cinematographer, Photographer, Sound, Editor, Motion Graphics

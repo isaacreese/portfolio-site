@@ -11,7 +11,7 @@ With almost two decades of design and video experience, I have produced national
 
 **SOFTWARE**
 
-Adobe After Effects, Premiere Pro, Photoshop, Illustrator, Lightroom, InDesign, Maxon Cinema 4D
+Maxon Cinema 4D, Adobe After Effects, Premiere Pro, Photoshop, Illustrator, Lightroom, InDesign
 
 **AWARDS**
 

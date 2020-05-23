@@ -5,7 +5,7 @@ title = "CV"
 weight = 3
 
 +++
-**#ABOUT**
+#ABOUT
 
 With almost two decades of design and video experience, I have produced nationally award-winning animations and documentary shorts.
 
